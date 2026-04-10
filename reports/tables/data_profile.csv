@@ -1,0 +1,6 @@
+column,dtype,missing,nunique
+User ID,int64,0,2847
+Timestamp,str,0,9737
+Channel,str,0,6
+Campaign,str,0,6
+Conversion,str,0,2

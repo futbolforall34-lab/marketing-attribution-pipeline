@@ -1,10 +1,11 @@
 # 02 - EDA
 
-## Objective
-Explore touchpoint behavior, channel frequency, and conversion patterns.
-
-## Planned outputs
-- channel distribution
+## Key patterns to explore
+- most frequent channels
 - conversion rate by channel
-- campaign frequency
-- journey sequence exploration
+- campaign mix
+- journey sequencing
+- share of direct vs paid touchpoints
+
+## Business interpretation
+The dataset is designed for attribution, so EDA should translate channel frequency into conversion contribution.

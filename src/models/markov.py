@@ -1,1 +1,1 @@
-"""Markov Chain attribution model."""
+"""Markov attribution model placeholder for the project."""
