@@ -1,3 +1,10 @@
 # 03 - Attribution Modeling
 
-Pendiente de ejecución.
+## Objective
+Build Markov Chain attribution model and compare channel contribution.
+
+## Planned outputs
+- transition matrix
+- removal effect
+- attribution weights
+- business recommendations
